@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="388"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="265" y="711" type="line" name="hr00"/>
+      <point x="343" y="788" type="line"/>
+      <point x="330" y="816" type="line"/>
+      <point x="258" y="816" type="line"/>
+      <point x="226" y="788" type="line"/>
+      <point x="169" y="816" type="line"/>
+      <point x="143" y="816" type="line"/>
+      <point x="65" y="739" type="line"/>
+      <point x="78" y="711" type="line"/>
+      <point x="150" y="711" type="line"/>
+      <point x="182" y="739" type="line"/>
+      <point x="239" y="711" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="732" width="-21" />
+      <hstem pos="816" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

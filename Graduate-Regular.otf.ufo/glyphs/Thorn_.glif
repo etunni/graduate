@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="624"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="80" y="750" type="line" name="hr00"/>
+      <point x="80" y="670" type="line"/>
+      <point x="150" y="670" type="line"/>
+      <point x="150" y="80" type="line"/>
+      <point x="80" y="80" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="242" y="154" type="line"/>
+      <point x="480" y="154" type="line"/>
+      <point x="584" y="264" type="line"/>
+      <point x="584" y="494" type="line"/>
+      <point x="480" y="604" type="line"/>
+      <point x="242" y="604" type="line"/>
+      <point x="242" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="240" type="line"/>
+      <point x="242" y="240" type="line"/>
+      <point x="242" y="518" type="line"/>
+      <point x="441" y="518" type="line"/>
+      <point x="498" y="459" type="line"/>
+      <point x="498" y="299" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="0" width="80" />
+      <hstem pos="154" width="86" />
+      <hstem pos="518" width="86" />
+      <hstem pos="670" width="80" />
+      <vstem pos="150" width="92" />
+      <vstem pos="498" width="86" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

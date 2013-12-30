@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="1">
+  <advance width="762"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="160" y="-100" type="line" name="hr00"/>
+      <point x="252" y="-100" type="line"/>
+      <point x="252" y="670" type="line"/>
+      <point x="510" y="670" type="line"/>
+      <point x="510" y="-100" type="line"/>
+      <point x="602" y="-100" type="line"/>
+      <point x="602" y="670" type="line"/>
+      <point x="682" y="670" type="line"/>
+      <point x="682" y="750" type="line"/>
+      <point x="80" y="750" type="line"/>
+      <point x="80" y="670" type="line"/>
+      <point x="160" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-79" width="-21" />
+      <hstem pos="670" width="80" />
+      <vstem pos="160" width="92" />
+      <vstem pos="510" width="92" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
