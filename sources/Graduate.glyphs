@@ -10094,8 +10094,15 @@ unicode = 380;
 },
 {
 glyphname = fi;
+lastChange = "2024-04-25 10:33:31 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (494,0);
+}
+);
 layerId = m001;
 shapes = (
 {
@@ -10148,8 +10155,15 @@ unicode = 64257;
 },
 {
 glyphname = fl;
+lastChange = "2024-04-25 10:33:31 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (576,0);
+}
+);
 layerId = m001;
 shapes = (
 {
