@@ -3,47 +3,6 @@
 .formatVersion = 3;
 customParameters = (
 {
-name = descriptions;
-value = "";
-},
-{
-name = licenses;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-name = sampleTexts;
-value = "";
-},
-{
-name = uniqueID;
-value = "EduardoTunni: Graduate: 2012";
-},
-{
-name = versionString;
-value = "Version 2.001";
-},
-{
-name = codePageRanges;
-value = (
-"1252",
-"1250",
-"1254",
-"1257",
-"bit 29"
-);
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-0,
-0
-);
-},
-{
 name = panose;
 value = (
 2,
@@ -59,34 +18,13 @@ value = (
 );
 },
 {
-name = unicodeRanges;
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = fsType;
 value = (
-0,
-1,
-2,
-3,
-5,
-7,
-29,
-31,
-33,
-35,
-38,
-45,
-62
 );
-},
-{
-name = vendorID;
-value = TIPO;
-},
-{
-name = trademarks;
-value = "Graduate is a trademark of Eduardo Tunni.";
-},
-{
-name = year;
-value = 2012;
 }
 );
 date = "2024-04-25 09:41:36 +0000";
@@ -15422,16 +15360,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Graduate\"";
-}
-);
-},
-{
-key = descriptions;
-values = (
-{
-language = dflt;
-value = "";
+value = "Copyright 2012 The Graduate Project Authors (https://github.com/etunni/mate) with Reserved Font Name \"Graduate\"";
 }
 );
 },
@@ -15446,20 +15375,20 @@ value = "Eduardo Tunni";
 },
 {
 key = designerURL;
-value = www.tipo.net;
+value = "http://www.tipo.net/";
 },
 {
 key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
@@ -15472,16 +15401,7 @@ value = "Eduardo Tunni";
 },
 {
 key = manufacturerURL;
-value = "";
-},
-{
-key = sampleTexts;
-values = (
-{
-language = dflt;
-value = "";
-}
-);
+value = "http://www.tipo.net/";
 },
 {
 key = trademarks;
@@ -15499,10 +15419,6 @@ value = "EduardoTunni: Graduate: 2012";
 {
 key = vendorID;
 value = TIPO;
-},
-{
-key = versionString;
-value = "Version 2.001";
 }
 );
 unitsPerEm = 1000;
@@ -15564,5 +15480,5 @@ width = 80;
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 100;
 }
