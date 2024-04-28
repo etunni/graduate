@@ -28299,7 +28299,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2012 The Graduate Project Authors (https://github.com/etunni/mate) with Reserved Font Name \"Graduate\"";
+value = "Copyright 2012 The Graduate Project Authors (https://github.com/etunni/graduate) with Reserved Font Name \"Graduate\"";
 }
 );
 },
